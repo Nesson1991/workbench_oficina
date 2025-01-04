@@ -43,9 +43,3 @@ O projeto tem como objetivo modelar o fluxo de trabalho de uma oficina mecânica
 O repositório contém:
 - O arquivo de **modelagem visual** gerado no MySQL Workbench (.mwb);
 - Script SQL para **criação das tabelas** e dos relacionamentos entre elas.
-
-## 🚀 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
