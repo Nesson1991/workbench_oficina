@@ -1,5 +1,7 @@
 # Construindo um Esquema Conceitual para Banco de Dados - Oficina Mecânica
 
+![Diagrama ER - Oficina Mecânica](https://github.com/Nesson1991/workbench_oficina/blob/main/Oficina%20Mec%C3%A2nica.png?raw=true)
+
 Este repositório contém o projeto desenvolvido para construir um esquema conceitual de banco de dados, focado no **Sistema de Controle e Gerenciamento de Execução de Ordens de Serviço (OS)** de uma oficina mecânica.
 
 ## 💡 Descrição do Projeto
